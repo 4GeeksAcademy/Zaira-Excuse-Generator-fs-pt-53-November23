@@ -11,7 +11,7 @@ window.onload = function() {
 };
 function generateExcuse() {
   let who = ["My dog", "My grandma", "My cat", "My spirit"];
-  let action = ["ate", "sat", "crushed", "broke"];
+  let action = ["ate", "sat on", "crushed", "broke"];
   let what = ["my homework", "the keys", "the car", "my computer"];
   let when = [
     "before the class",

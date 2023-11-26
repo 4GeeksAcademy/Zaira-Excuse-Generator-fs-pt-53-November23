@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+h1 {
+  font-family: "Bungee Spice", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: darkred;
+}
+img {
+  width: 400px;
+  height: 300px;
+}
